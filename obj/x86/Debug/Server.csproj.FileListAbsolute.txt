@@ -1,0 +1,13 @@
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\bin\Debug\Server.exe.config
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\bin\Debug\Server.exe
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\bin\Debug\Server.pdb
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\bin\Debug\ChatLibrary.dll
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\bin\Debug\ChatLibrary.pdb
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.exe
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\obj\x86\Debug\Server.pdb
+C:\Users\KoyzdoBR\Desktop\ChatServer\Server\bin\Debug\MetroFramework.dll
